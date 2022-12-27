@@ -26,7 +26,8 @@ temp=n1
 n1=n2
 n2=temp
 print("Swapped values are:",n1,n2)
-
+## OUTPUT:
+![SWAPING](/Screenshot_20221227_041314.png)
 
 
 
