@@ -17,7 +17,16 @@ Assign the value in temporary variable to the first variable
 Print both the values it would be interchanged
 ### Step 6: 
 End the program
-## PROGRAM:
+## PROGRAM:#Program to swap two values.
+#Developed by: GURUMORTHI R
+#RegisterNumber:22008475
+n1=input()
+n2=input()
+temp=n1
+n1=n2
+n2=temp
+print("Swapped values are:",n1,n2)
+
 
 
 
