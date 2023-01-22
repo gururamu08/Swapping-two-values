@@ -18,6 +18,7 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:#Program to swap two values.
+```
 #Developed by: GURUMORTHI R
 #RegisterNumber:22008475
 n1=input()
@@ -26,6 +27,8 @@ temp=n1
 n1=n2
 n2=temp
 print("Swapped values are:",n1,n2)
+```
+
 ## OUTPUT:
 ![SWAPING](/Screenshot_20221227_041314.png)
 
